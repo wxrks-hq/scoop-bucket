@@ -1,0 +1,15 @@
+{
+    "version": "0.1.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/wxrks-hq/wx/releases/download/v0.1.0/wx_Windows_x86_64.zip",
+            "bin": [
+                "wx.exe"
+            ],
+            "hash": "98e7e6756527fbc16d149a2f636f7e55d4e8bfe10d74f4762d04de78e809e5d4"
+        }
+    },
+    "homepage": "https://github.com/wxrks-hq/wx",
+    "license": "Proprietary",
+    "description": "Native command-line interface for wxrks APIs."
+}
