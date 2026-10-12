@@ -1,12 +1,12 @@
 {
-    "version": "0.2.1",
+    "version": "0.3.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/wxrks-hq/wx/releases/download/v0.2.1/wx_Windows_x86_64.zip",
+            "url": "https://github.com/wxrks-hq/wx/releases/download/v0.3.0/wx_Windows_x86_64.zip",
             "bin": [
                 "wx.exe"
             ],
-            "hash": "0cb383d95ea0e45c36a5ca3da2a48c99add39312474593877334a8aa53e745b5"
+            "hash": "2e624dbf5281eb1996564314c012249332821af9ad5948a2979a739a747dd293"
         }
     },
     "homepage": "https://github.com/wxrks-hq/wx",
